@@ -1,1 +1,1 @@
-# crumpled-balls
+# CP-2
